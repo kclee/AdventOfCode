@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdventOfCode.AdventOfCode2016
+namespace AdventOfCode_CSharp.AdventOfCode2016
 {
     //TODO: Visiualize?, and different way to check intersection in part 2
     class Day1

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdventOfCode.AdventOfCode2016
+namespace AdventOfCode_CSharp.AdventOfCode2016
 {
     //TODO: different way to handle Move or store keypad data
     class Day2
