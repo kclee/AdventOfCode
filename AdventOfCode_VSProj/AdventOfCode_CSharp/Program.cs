@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdventOfCode
+namespace AdventOfCode_CSharp
 {
     class Program
     {
@@ -17,7 +17,10 @@ namespace AdventOfCode
             //AdventOfCode2016.Day2.RunDay2();
 
             // Day 3
-            AdventOfCode2016.Day3.RunDay3();
+            //AdventOfCode2016.Day3.RunDay3();
+
+            // Day 4
+            AdventOfCode2016.Day4.RunDay4();
         }
     }
 }
