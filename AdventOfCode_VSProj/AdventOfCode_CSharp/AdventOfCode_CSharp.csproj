@@ -47,6 +47,7 @@
     <Compile Include="AdventOfCode2016\Day2.cs" />
     <Compile Include="AdventOfCode2016\Day3.cs" />
     <Compile Include="AdventOfCode2016\Day4.cs" />
+    <Compile Include="AdventOfCode2016\Day5.cs" />
     <Compile Include="Helper\InputHandler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
