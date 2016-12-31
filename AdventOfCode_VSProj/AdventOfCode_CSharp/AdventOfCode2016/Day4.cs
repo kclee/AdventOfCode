@@ -11,7 +11,7 @@ namespace AdventOfCode_CSharp.AdventOfCode2016
         public static void RunDay4()
         {
             string input = input_1;
-            List<string[]> lines = Helper.InputHandler.GetLinesFromString(input);
+            List<string[]> lines = Helper.InputHandler.GetLinesWithPerLineSplitBySpaceFromString(input);
 
             int sumOfRealRoomSectorId = 0;
             foreach (var line in lines)
