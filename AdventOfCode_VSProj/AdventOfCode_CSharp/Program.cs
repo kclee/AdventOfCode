@@ -26,7 +26,10 @@ namespace AdventOfCode_CSharp
             //AdventOfCode2016.Day5.RunDay5();
 
             // Day 6
-            AdventOfCode2016.Day6.RunDay6();
+            //AdventOfCode2016.Day6.RunDay6();
+
+            // Day 7
+            AdventOfCode2016.Day7.RunDay7();
         }
     }
 }
