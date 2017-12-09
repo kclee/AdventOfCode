@@ -10,6 +10,19 @@ namespace AdventOfCode_CSharp
     {
         static void Main(string[] args)
         {
+            //Run2015();
+
+            //Run2016();
+
+            Run2017();
+        }
+
+        static void Run2015()
+        {
+        }
+
+        static void Run2016()
+        {
             // Day 1
             //AdventOfCode2016.Day1.RunDay1();
 
@@ -31,5 +44,13 @@ namespace AdventOfCode_CSharp
             // Day 7
             AdventOfCode2016.Day7.RunDay7();
         }
+
+        static void Run2017()
+        {
+            // Day 1
+            //AdventOfCode2017.Day1.RunDay1();
+        }
+
+
     }
 }
