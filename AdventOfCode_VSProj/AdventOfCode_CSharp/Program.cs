@@ -42,13 +42,13 @@ namespace AdventOfCode_CSharp
             //AdventOfCode2016.Day6.RunDay6();
 
             // Day 7
-            AdventOfCode2016.Day7.RunDay7();
+            //AdventOfCode2016.Day7.RunDay7();
         }
 
         static void Run2017()
         {
             // Day 1
-            //AdventOfCode2017.Day1.RunDay1();
+            AdventOfCode2017.Day1.RunDay1();
         }
 
 
