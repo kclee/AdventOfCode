@@ -15,6 +15,19 @@ namespace AdventOfCode_CSharp
             //Run2016();
 
             Run2017();
+
+            int[][][] x = new int[][][]
+            {
+                new int[][] { },
+                new int[][] { new int[] {1, 1}, new int[] {1, 1}},
+                new int[][] { new int[] {2, 2} },
+                new int[][] { },
+                new int[][] { new int[] {3,3}, new int[] {3,3}, new int[] { 3, 3 }, new int[] { 3, 3 } }
+            };
+
+            var xString = Newtonsoft.Json.JsonConvert.SerializeObject(x);
+
+            string jsonString = x.ToString();
         }
 
         static void Run2015()
